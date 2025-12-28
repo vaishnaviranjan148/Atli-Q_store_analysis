@@ -114,6 +114,8 @@ Diwali outperformed Sankranti across most categories and promotion types.
 
 ## Conclusion
 
-This analysis shows that not all promotions create value. Cashback and combo-focused strategies clearly outperform flat discounts. With better promotion selection and category focus, Atli-Q Mart can significantly improve profitability in future festive campaigns.
+The analysis highlights that promotional effectiveness varies significantly across offer types, categories, and campaigns. Cashback-based promotions, especially 500 Cashback, delivered the strongest incremental revenue, while flat discount offers such as 25% OFF resulted in value loss. Combo-based categories emerged as the highest contributors, indicating strong customer preference for bundled products.
+
+Campaign comparison shows that Diwali outperformed Sankranti, suggesting that major festivals require higher budget allocation and stronger promotional focus. Overall, focusing on high-impact promotions, scaling successful categories, and learning from top-performing stores can help improve the effectiveness and profitability of future festive campaigns.
 
 [Home](#table-of-content)
