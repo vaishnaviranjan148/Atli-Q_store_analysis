@@ -8,6 +8,8 @@ Key insights show that cashback-based promotions and combo categories delivered 
 
 Overall, this project demonstrates how data-driven analysis can help retail businesses optimize promotional strategies, reduce value loss, and improve decision-making for future campaigns.
 
+[Click here to view Live dashboard](https://app.powerbi.com/reportEmbed?reportId=013815bf-e77c-4292-90e3-490e0d9fd33a&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
+
 ## Table of Content
 1. [About the Company](#about-the-company)
 2. [Clients Requirements & Objectives](#clients-requirements--objectives)
